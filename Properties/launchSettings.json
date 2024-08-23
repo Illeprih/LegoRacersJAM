@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LegoRacersJAM": {
+      "commandName": "Project",
+      "commandLineArgs": "-i \"G:/Projekty/Lego Racers/LEGO.JAM.backup\"\r\n-o \"G:/Projekty/Lego Racers\""
+    }
+  }
+}
